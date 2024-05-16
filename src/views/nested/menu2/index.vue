@@ -1,4 +1,4 @@
-<!-- <template>
+<template>
   <div class="components-container board">
     <Kanban :key="1" :list="list1" :group="group" class="kanban todo" header-text="昨日会议" />
     <Kanban :key="2" :list="list2" :group="group" class="kanban working" header-text="今日会议" />
@@ -65,9 +65,7 @@ export default {
   }
 }
 </style>
- -->
-
-<template>
+<!-- <template>
   <div class="components-container board">
     <Kanban :key="1" :list="list1" :group="group" class="kanban todo" header-text="昨日会议" />
     <Kanban :key="2" :list="list2" :group="group" class="kanban working" header-text="今日会议" />
@@ -139,4 +137,4 @@ export default {
   }
 }
 // nishuodedui
-</style>
+</style> -->
